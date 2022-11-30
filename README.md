@@ -1,11 +1,20 @@
 ##  Olá! Eu sou Marciano Matias
+# marcianomatias_
 
-<div align="center">
-  <a href="https://github.com/marcianomatias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcianomatias&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcianomatias&layout=compact&langs_count=7&theme=radical"/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marcianomatias&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marcianomatias&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marcianomatias&show_icons=true" />
+</picture>
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcianomatias&langs_count=8)](https://github.com/marcianomatias/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matias-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"/>
