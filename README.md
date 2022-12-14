@@ -1,5 +1,11 @@
-##  Olá! Eu sou Marciano Matias
-# marcianomatias_
+# Hello, I'm Marciano Matias.
+## Brazilian 🇧🇷 from Cantagalo - RJ, technology enthusiast 💻, evolving with my studies in web programming 👨‍🎓, looking for new opportunities.
+
+```ruby
+s = "Ruby syntax highlighting"
+puts s
+
+```
 
 <picture>
 <source 
