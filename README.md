@@ -4,7 +4,7 @@
 ```ruby
 s = "Ruby syntax highlighting"
 puts s
-
+Ruby syntax highlighting
 ```
 
 <picture>
