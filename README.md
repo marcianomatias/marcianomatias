@@ -1,5 +1,5 @@
 # Hello, I'm Marciano Matias.
-##I am an ambitious and determined person, born in the city of Cantagalo and Brazilian 🇧🇷, in the state of Rio de Janeiro in 1977, married to a beautiful wife who supports my studies and father of 02 beautiful daughters. Cantagalo is known for its rich history and culture, and I was undoubtedly influenced by this in my journey to become a developer. Currently residing in Rio das Ostras, a coastal town with beautiful beaches and stunning landscapes. This inspiring environment, along with my passion for technology, led me to become a junior developer with invaluable skills in Ruby, HTML, CSS and JavaScript.
+## I am an ambitious and determined person, born in the city of Cantagalo and Brazilian 🇧🇷, in the state of Rio de Janeiro in 1977, married to a beautiful wife who supports my studies and father of 02 beautiful daughters. Cantagalo is known for its rich history and culture, and I was undoubtedly influenced by this in my journey to become a developer. Currently residing in Rio das Ostras, a coastal town with beautiful beaches and stunning landscapes. This inspiring environment, along with my passion for technology, led me to become a junior developer with invaluable skills in Ruby, HTML, CSS and JavaScript.
 
 ```ruby
 s = "Ruby syntax highlighting"
